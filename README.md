@@ -6,7 +6,7 @@ This project utilizes machine learning techniques to predict salaries within the
 
 ## 🔬 Methodology and Models
 
-The analysis is performed within a Jupyter/Colab Notebook (`texasSalPred (1).ipynb`) and follows a standard data science workflow:
+The analysis is performed within a Jupyter/Colab Notebook (`texasSalPred.ipynb`) and follows a standard data science workflow:
 
 1. **Data Loading and Cleaning**  
    - Handle missing values  
